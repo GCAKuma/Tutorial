@@ -8,5 +8,6 @@ namespace Tutorial
 {
     internal class Nurse
     {
+        //Guru pramindu
     }
 }
